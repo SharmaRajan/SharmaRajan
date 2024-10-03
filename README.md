@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @SharmaRajan
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Spring Microservices.
-- 💞️ I’m looking to collaborate on opwn-source projects, particularly in areas like Web Development and Data analysis  ... 
+- 💞️ I’m looking to collaborate on open-source projects, particularly in areas like Web Development and Data analysis  ... 
 
 <!-- - 📫 You can reach me on
 
