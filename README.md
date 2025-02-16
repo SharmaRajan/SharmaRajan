@@ -9,6 +9,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+![Views](https://komarev.com/ghpvc/?username=SharmaRajan)
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/SharmaRajan/SharmaRajan/blob/master/.github/workflows/MAIN.yml)
 
 - 🌱  I’m **Rajan**, a curious software engineer tinkerer at heart working as a full-stack developer.
 - 🌱 I’m currently learning **Quantum Computing using Qiskit**
@@ -19,9 +22,7 @@
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SharmaRajan&theme=github_dark)  -->
 <!-- ![](https://komarev.com/ghpvc/?username=SharmaRajan&color=brightgreen) -->
-![](https://komarev.com/ghpvc/?username=SharmaRajan)
-![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/SharmaRajan/SharmaRajan/blob/master/.github/workflows/MAIN.yml)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
