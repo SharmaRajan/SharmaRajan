@@ -2,7 +2,7 @@
 
 [//]: # ([![Typing SVG]&#40;https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=rebeccapurple&width=720&lines=Hi%2C+I'm+RajanSharma.+I+am+currently+working+as+Back-End+Dev&#41;]&#40;https://git.io/typing-svg&#41;)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&width=720&lines=Hi,+I'm+Rajan+Sharma.;I+am+currently+working+as+a+Back-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5&color=6A5ACD&width=720&lines=Hi,+I'm+Rajan+Sharma.;I+am+currently+working+as+a+Back-End+Developer)](https://git.io/typing-svg)
 
 <h3 align="center">Bringing Web solutions to life with creativity, technical excellence, and attention to detail,
 ensuring security, scalability, and maintainability.</h3>
