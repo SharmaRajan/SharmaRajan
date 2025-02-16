@@ -9,6 +9,8 @@
 
 ![github-contribution-grid-snake](https://github.com/SharmaRajan/SharmaRajan/blob/output/github-contribution-grid-snake.svg)
 
+[![iRajan's Isometric GitHub Calendar](https://github.com/SharmaRajan/SharmaRajan/blob/output/github-contribution-grid-snake.svg)](https://github.com/SharmaRajan)
+
 - 🌱  I’m **Rajan**, a curious software engineer tinkerer at heart working as a full-stack developer.
 - 🌱 I’m currently learning **Quantum Computing using Qiskit**
 - 💞️ I’m looking to collaborate on open-source projects, particularly in areas like Web Development and Data analysis... 
@@ -25,7 +27,12 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaRajan&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SharmaRajan&show_icons=true&locale=en" alt="SharmaRajan" /></p>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaRajan&layout=compact&theme=radical) -->
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SharmaRajan&show_icons=true&locale=en" alt="SharmaRajan" /></p> -->
+![iRajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharmaRajan&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=SharmaRajan&theme=radical)
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SharmaRajan" alt="SharmaRajan" /></a> </p> -->
 
@@ -80,3 +87,5 @@ Thank you for being here!
   }
   
 ````
+
+

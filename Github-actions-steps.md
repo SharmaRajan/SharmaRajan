@@ -6,3 +6,4 @@
 - commit and push
 - go to actions select Generate Snake workflows and run
 - Go to output branch
+- and copy svg path and put it in readme file
