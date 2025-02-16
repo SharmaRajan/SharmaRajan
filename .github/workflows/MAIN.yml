@@ -2,7 +2,6 @@ name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    # Every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
@@ -14,29 +13,16 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Create output folder
-        run: mkdir -p dist
-
       - name: Generate Snake Contribution Graph
         uses: Platane/snk@v3
         with:
           github_user_name: SharmaRajan
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Show generated files
+      - name: Show Files in dist (Debugging)
         run: ls -R dist
 
-
-      # Push the changes
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      - name: Push changes to `output` branch
+      - name: Deploy Snake Graph to `output` Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
