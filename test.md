@@ -20,6 +20,9 @@ ensuring security, scalability, and maintainability.</h3>
 
 ---
 
+[![iRajan's Isometric GitHub Calendar](https://github.com/SharmaRajan/SharmaRajan/blob/output/github-contribution-grid-snake.svg)](https://github.com/SharmaRajan)
+
+
 ### 📊 GitHub Stats:
 
 ![Views](https://komarev.com/ghpvc/?username=SharmaRajan)
@@ -34,7 +37,6 @@ ensuring security, scalability, and maintainability.</h3>
 
 [//]: # (![GitHub Activity Graph]&#40;https://github-readme-activity-graph.vercel.app/graph?username=SharmaRajan&theme=react-dark&#41;)
 
-[![iRajan's Isometric GitHub Calendar](https://github.com/SharmaRajan/SharmaRajan/blob/output/github-contribution-grid-snake.svg)](https://github.com/SharmaRajan)
 
 ---
 
