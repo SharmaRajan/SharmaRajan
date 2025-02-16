@@ -9,11 +9,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-[![iRajan's Isometric GitHub Calendar](https://github.com/SharmaRajan/SharmaRajan/blob/output/github-contribution-grid-snake.svg)](https://github.com/SharmaRajan)
 
 - 🌱  I’m **Rajan**, a curious software engineer tinkerer at heart working as a full-stack developer.
 - 🌱 I’m currently learning **Quantum Computing using Qiskit**
 - 💞️ I’m looking to collaborate on open-source projects, particularly in areas like Web Development and Data analysis... 
+
+[![iRajan's Isometric GitHub Calendar](https://github.com/SharmaRajan/SharmaRajan/blob/output/github-contribution-grid-snake.svg)](https://github.com/SharmaRajan)
+
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SharmaRajan&theme=github_dark)  -->
 <!-- ![](https://komarev.com/ghpvc/?username=SharmaRajan&color=brightgreen) -->
