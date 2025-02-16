@@ -17,7 +17,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=SharmaRajan&color=brightgreen) -->
 ![](https://komarev.com/ghpvc/?username=SharmaRajan)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/SharmaRajan/SharmaRajan/blob/master/.github/workflows/MAIN.yml)
 
 
 <h3 align="left">Languages and Tools:</h3>
