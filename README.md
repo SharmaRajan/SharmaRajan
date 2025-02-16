@@ -7,7 +7,9 @@
 
 <h3 align="center">Bringing Web solutions to life with creativity, technical excellence, and attention to detail, ensuring security, scalability, and maintainability.</h3>
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
+<!-- ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg) -->
+
+![github-contribution-grid-snake](https://github.com/SharmaRajan/SharmaRajan/blob/output/github-contribution-grid-snake.gif)
 
 <!-- ![github-contribution-grid-snake](https://raw.githubusercontent.com/SharmaRajan/SharmaRajan/output/218791674-c52db856-24d2-429f-8867-170c365730d1.svg) -->
 
