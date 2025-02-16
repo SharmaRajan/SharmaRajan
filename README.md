@@ -3,11 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=rebeccapurple&width=720&lines=Hi%2C+I'm+RajanSharma.+I+am+currently+working+as+Back-End+Dev)](https://git.io/typing-svg)
 
-![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
+<!-- ![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif) -->
 
 <h3 align="center">Bringing Web solutions to life with creativity, technical excellence, and attention to detail, ensuring security, scalability, and maintainability.</h3>
 
-![github-contribution-grid-snake](https://github.com/SharmaRajan/SharmaRajan/blob/output/github-contribution-grid-snake.svg)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 [![iRajan's Isometric GitHub Calendar](https://github.com/SharmaRajan/SharmaRajan/blob/output/github-contribution-grid-snake.svg)](https://github.com/SharmaRajan)
 
@@ -34,9 +34,13 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SharmaRajan&theme=radical)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SharmaRajan&theme=react-dark)
+
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SharmaRajan" alt="SharmaRajan" /></a> </p> -->
 
+## 🎵 **Spotify Now Playing**
 
+[![Spotify](https://novatorem-mu.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
 
 ## Need help?
 
@@ -88,4 +92,5 @@ Thank you for being here!
   
 ````
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
