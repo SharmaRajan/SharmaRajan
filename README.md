@@ -1,6 +1,6 @@
 <h2 align="center" style="color: rebeccapurple;">Hi there 👋, Welcome to my Github page!</h2>
 
-[//]: # ([![Typing SVG]&#40;https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=rebeccapurple&width=720&lines=Hi%2C+I'm+RajanSharma.+I+am+currently+working+as+Back-End+Dev&#41;]&#40;https://git.io/typing-svg&#41;)
+[![iRajan's Isometric GitHub Calendar](https://github.com/SharmaRajan/SharmaRajan/blob/output/github-contribution-grid-snake.svg)](https://github.com/SharmaRajan)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5&color=6A5ACD&width=720&lines=Hi,+I'm+Rajan+Sharma.;I+am+currently+working+as+a+Full-Stack+Developer)](https://git.io/typing-svg)
 
@@ -20,7 +20,6 @@ ensuring security, scalability, and maintainability.</h3>
 
 ---
 
-[![iRajan's Isometric GitHub Calendar](https://github.com/SharmaRajan/SharmaRajan/blob/output/github-contribution-grid-snake.svg)](https://github.com/SharmaRajan)
 
 
 ### 📊 GitHub Stats:
