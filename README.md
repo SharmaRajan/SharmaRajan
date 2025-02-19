@@ -51,19 +51,18 @@ ensuring security, scalability, and maintainability.</h3>
   <td>
 <img src="https://leetcard.jacoblin.cool/SharmaRajan?font=Dancing_Script&theme=dark" alt="LeetCode Stats" />
 </td>
-
-[//]: # (<td>)
-[//]: # (<img src="https://leetcard.jacoblin.cool/SharmaRajan?ext=heatmap&font=Dancing_Script&theme=dark" alt="LeetCode Stats" />)
-[//]: # (</td>)
+<td>
+<h5>🔝 Top Contributed Repo</h5>
+<img src="https://github-contributor-stats.vercel.app/api?username=SharmaRajan&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</td>
 </tr>
 </table>
 
+[//]: # (<img src="https://leetcard.jacoblin.cool/SharmaRajan?ext=heatmap&font=Dancing_Script&theme=dark" alt="LeetCode Stats" />)
 
 
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SharmaRajan&limit=5&theme=flat&combine_all_yearly_contributions=true)
+[//]: # (### 🔝 Top Contributed Repo)
 
 ---
 
