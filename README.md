@@ -39,30 +39,22 @@ ensuring security, scalability, and maintainability.</h3>
 
 
 [//]: # (<table>)
-
 [//]: # (  <tr>)
-
 [//]: # (    <td >)
-
 [//]: # (      <img src="https://streak-stats.demolab.com?user=SharmaRajan&theme=radical" alt="GitHub Streak" />)
-
 [//]: # (    </td>)
-
 [//]: # (    <td align="right">)
-
 [//]: # (      <img src="https://github-readme-stats.vercel.app/api?username=SharmaRajan&&rank_icon=github&show_icons=true&theme=radical" alt="LeetCode Stats" />)
-
 [//]: # (    </td>)
-
 [//]: # (  </tr>)
-
 [//]: # (</table>)
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://streak-stats.demolab.com?user=SharmaRajan&theme=radical" alt="GitHub Streak" width="300">
-  <img src="https://leetcard.jacoblin.cool/SharmaRajan?font=Dancing_Script" alt="LeetCode Stats" width="300">
-</div>
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=SharmaRajan&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharmaRajan&&rank_icon=github&show_icons=true&theme=radical)
+
+- LeetCode
 
 [//]: # (<img src="https://leetcard.jacoblin.cool/SharmaRajan?ext=heatmap&font=Dancing_Script&theme=dark" alt="LeetCode Stats" />)
 <img src="https://leetcard.jacoblin.cool/SharmaRajan?font=Dancing_Script&theme=dark" alt="LeetCode Stats" />
