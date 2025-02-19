@@ -2,7 +2,9 @@
 
 [![iRajan's Isometric GitHub Calendar](https://github.com/SharmaRajan/SharmaRajan/blob/output/github-contribution-grid-snake.svg)](https://github.com/SharmaRajan)
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5&color=6A5ACD&width=720&lines=Hi,+I'm+Rajan+Sharma.;I+am+currently+working+as+a+Full-Stack+Developer)](https://git.io/typing-svg)
+
 
 <h3 align="center">Bringing Web solutions to life with creativity, technical excellence, and attention to detail,
 ensuring security, scalability, and maintainability.</h3>
