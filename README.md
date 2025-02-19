@@ -54,11 +54,11 @@ ensuring security, scalability, and maintainability.</h3>
   </tr>
 <tr>
   <td>
-<img src="https://leetcard.jacoblin.cool/SharmaRajan?font=Dancing_Script&theme=dark" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/SharmaRajan?font=Dancing_Script&theme=dark&border_radius=10" alt="LeetCode Stats" />
 </td>
 <td>
 <h5>🔝 Top Contributed Repo</h5>
-<img src="https://github-contributor-stats.vercel.app/api?username=SharmaRajan&limit=5&theme=react&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+<img src="https://github-contributor-stats.vercel.app/api?username=SharmaRajan&limit=5&theme=react&combine_all_yearly_contributions=true&border_radius=10" alt="Top Contributed Repo" />
 </td>
 </tr>
 </table>
