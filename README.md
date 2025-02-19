@@ -47,13 +47,19 @@ ensuring security, scalability, and maintainability.</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=SharmaRajan&&rank_icon=github&show_icons=true&theme=radical" alt="LeetCode Stats" />
     </td>
   </tr>
+<tr>
+  <td>
+<img src="https://leetcard.jacoblin.cool/SharmaRajan?font=Dancing_Script&theme=dark" alt="LeetCode Stats" />
+</td>
+
+[//]: # (<td>)
+[//]: # (<img src="https://leetcard.jacoblin.cool/SharmaRajan?ext=heatmap&font=Dancing_Script&theme=dark" alt="LeetCode Stats" />)
+[//]: # (</td>)
+</tr>
 </table>
 
 
-- LeetCode
 
-[//]: # (<img src="https://leetcard.jacoblin.cool/SharmaRajan?ext=heatmap&font=Dancing_Script&theme=dark" alt="LeetCode Stats" />)
-<img src="https://leetcard.jacoblin.cool/SharmaRajan?font=Dancing_Script&theme=dark" alt="LeetCode Stats" />
 
 
 ### 🔝 Top Contributed Repo
