@@ -38,25 +38,25 @@ ensuring security, scalability, and maintainability.</h3>
 [//]: # (![GitHub Activity Graph]&#40;https://github-readme-activity-graph.vercel.app/graph?username=SharmaRajan&theme=react-dark&#41;)
 
 
-[//]: # (<table>)
-[//]: # (  <tr>)
-[//]: # (    <td >)
-[//]: # (      <img src="https://streak-stats.demolab.com?user=SharmaRajan&theme=radical" alt="GitHub Streak" />)
-[//]: # (    </td>)
-[//]: # (    <td align="right">)
-[//]: # (      <img src="https://github-readme-stats.vercel.app/api?username=SharmaRajan&&rank_icon=github&show_icons=true&theme=radical" alt="LeetCode Stats" />)
-[//]: # (    </td>)
-[//]: # (  </tr>)
-[//]: # (</table>)
+<table>
+  <tr>
+    <td >
+      <img src="https://streak-stats.demolab.com?user=SharmaRajan&theme=radical" alt="GitHub Streak" />
+    </td>
+    <td align="right">
+      <img src="https://github-readme-stats.vercel.app/api?username=SharmaRajan&&rank_icon=github&show_icons=true&theme=radical" alt="LeetCode Stats" />
+    </td>
+  </tr>
+</table>
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SharmaRajan&theme=radical)
+[//]: # (![GitHub Streak]&#40;https://streak-stats.demolab.com?user=SharmaRajan&theme=radical&#41;)
 
 
 [//]: # (![Test]&#40;https://streak-stats.liara.run?user=SharmaRajan&theme=radical&#41;)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharmaRajan&&rank_icon=github&show_icons=true&theme=radical)
+[//]: # (![GitHub Stats]&#40;https://github-readme-stats.vercel.app/api?username=SharmaRajan&&rank_icon=github&show_icons=true&theme=radical&#41;)
 
 - LeetCode
 
