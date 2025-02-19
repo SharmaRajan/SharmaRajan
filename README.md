@@ -29,8 +29,6 @@ ensuring security, scalability, and maintainability.</h3>
 [//]: # ([![Rajan Sharma profile views]&#40;https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg&#41;]&#40;https://u8views.com/github/SharmaRajan&#41;)
 
 
-<img alt="Image of profile-views-counter" src="https://github.com/SharmaRajan/profile-views-counter/blob/master/graph/778969643/small/year.png" height="20">
-
 ![Views](https://komarev.com/ghpvc/?username=SharmaRajan)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/SharmaRajan/SharmaRajan/blob/master/.github/workflows/MAIN.yml)
@@ -42,7 +40,7 @@ ensuring security, scalability, and maintainability.</h3>
 
 <table>
   <tr>
-    <td>
+    <td align="left">
       <img src="https://streak-stats.demolab.com/?user=SharmaRajan&theme=radical" alt="GitHub Streak" />
     </td>
     <td align="right">
