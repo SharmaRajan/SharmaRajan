@@ -2,7 +2,7 @@
 
 [//]: # ([![Typing SVG]&#40;https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=rebeccapurple&width=720&lines=Hi%2C+I'm+RajanSharma.+I+am+currently+working+as+Back-End+Dev&#41;]&#40;https://git.io/typing-svg&#41;)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5&color=6A5ACD&width=720&lines=Hi,+I'm+Rajan+Sharma.;I+am+currently+working+as+a+Back-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5&color=6A5ACD&width=720&lines=Hi,+I'm+Rajan+Sharma.;I+am+currently+working+as+a+Full-Stack+Developer)](https://git.io/typing-svg)
 
 <h3 align="center">Bringing Web solutions to life with creativity, technical excellence, and attention to detail,
 ensuring security, scalability, and maintainability.</h3>
@@ -13,7 +13,7 @@ ensuring security, scalability, and maintainability.</h3>
 
 ### 💡 About Me:
 
-- 👨‍💻 I’m **Rajan**, a curious software engineer and tinkerer at heart working as a Full-Stack Developer.
+- 👨‍💻 I’m **Rajan**, a curious software engineer and tinkerer at heart.
 - 🌱 I’m currently learning **Quantum Computing using Qiskit**.
 - 💞 I’m looking to collaborate on **open-source projects**, particularly in areas like **Web Development** and **Data
   Analysis**.
@@ -25,17 +25,35 @@ ensuring security, scalability, and maintainability.</h3>
 
 ### 📊 GitHub Stats:
 
+[//]: # (#### Profile views counter 👁️‍🗨️)
+[//]: # ([![Rajan Sharma profile views]&#40;https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg&#41;]&#40;https://u8views.com/github/SharmaRajan&#41;)
+
+
+<img alt="Image of profile-views-counter" src="https://github.com/SharmaRajan/profile-views-counter/blob/master/graph/778969643/small/year.png" height="20">
+
 ![Views](https://komarev.com/ghpvc/?username=SharmaRajan)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/SharmaRajan/SharmaRajan/blob/master/.github/workflows/MAIN.yml)
 
-[//]: # (<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaRajan&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />)
 
-[//]: # (![iRajan's GitHub Stats]&#40;https://github-readme-stats.vercel.app/api?username=SharmaRajan&show_icons=true&theme=radical&#41;)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=SharmaRajan&theme=radical)
 
 [//]: # (![GitHub Activity Graph]&#40;https://github-readme-activity-graph.vercel.app/graph?username=SharmaRajan&theme=react-dark&#41;)
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=SharmaRajan&theme=radical" alt="GitHub Streak" />
+    </td>
+    <td align="right">
+      <img src="https://github-readme-stats.vercel.app/api?username=SharmaRajan&&rank_icon=github&show_icons=true&theme=radical" alt="LeetCode Stats" />
+    </td>
+  </tr>
+</table>
+
+[//]: # (<img src="https://leetcard.jacoblin.cool/SharmaRajan?ext=heatmap&font=Dancing_Script&theme=dark" alt="LeetCode Stats" />)
+<img src="https://leetcard.jacoblin.cool/SharmaRajan?font=Dancing_Script&theme=dark" alt="LeetCode Stats" />
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SharmaRajan&limit=5&theme=flat&combine_all_yearly_contributions=true)
@@ -118,6 +136,12 @@ ensuring security, scalability, and maintainability.</h3>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaRajan&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 
+[//]: # ([![Typescript Badge]&#40;https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc&#41;]&#40;#&#41; )
+[//]: # ([![Nodejs Badge]&#40;https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A&#41;]&#40;#&#41; )
+[//]: # ([![GraphQL Badge]&#40;https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab&#41;]&#40;#&#41;)
+
+
+
 
 [//]: # (---)
 
@@ -145,9 +169,20 @@ ensuring security, scalability, and maintainability.</h3>
 
 <a href="https://x.com/RajanS5259"><img src="images5/twitter.png" width="32px" height="32px"></a>
 <a href="https://www.linkedin.com/in/rajan-kumar-sharma-709a17229/"><img src="images5/linkedin.png" width="32px" height="32px"></a>
-<a href="#"><img src="images5/meta-96.png" width="32px" height="32px"></a>
 <a href="https://www.instagram.com/impervious.aviral/"><img src="images5/instagram-144.png" width="32px" height="32px"></a>
-<a href="https://www.hackerrank.com/mr_sharmajeeraj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="32px" width="32px" /></a>
+
+[//]: # (<a href="https://www.hackerrank.com/mr_sharmajeeraj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="32px" width="32px" /></a>)
+
+[//]: # (<a href="#"><img src="images5/meta-96.png" width="32px" height="32px"></a>)
+
+
+[//]: # ([![Twitter Badge]&#40;https://img.shields.io/badge/-@RajanS5259-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RajanS5259&#41;]&#40;https://twitter.com/RajanS5259&#41;)
+[//]: # ([![Linkedin Badge]&#40;https://img.shields.io/badge/-Rajan_Sharma-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&#41;]&#40;https://www.linkedin.com/in/rajan-kumar-sharma-709a17229&#41;)
+[//]: # ([![Instagram Badge]&#40;https://img.shields.io/badge/-@impervious.aviral-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white&#41;]&#40;https://www.instagram.com/impervious.aviral/&#41;)
+[//]: # ([![Mail Badge]&#40;https://img.shields.io/badge/-Rajan_Sharma-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white&#41;]&#40;mailto:mr.sharmajeerajan@gmail.com&#41;)
+
+[//]: # ([![Youtube Badge]&#40;https://img.shields.io/badge/-Maksym_Rudnyi-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white&#41;]&#40;https://youtube.com/@MaksymRudnyi?si=rYeYSkEaREqugOCt&#41;)
+[//]: # ([![Youtube Travel Badge]&#40;https://img.shields.io/badge/-Travels_And_Code-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white&#41;]&#40;https://youtube.com/@TravelsCode?si=YETDFWm1lvKodZW9&#41;)
 
 ---
 
