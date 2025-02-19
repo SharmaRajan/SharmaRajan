@@ -50,7 +50,11 @@ ensuring security, scalability, and maintainability.</h3>
 [//]: # (</table>)
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SharmaRajan&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=SharmaRajan&theme=radical)
+
+
+[//]: # (![Test]&#40;https://streak-stats.liara.run?user=SharmaRajan&theme=radical&#41;)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharmaRajan&&rank_icon=github&show_icons=true&theme=radical)
 
