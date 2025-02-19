@@ -40,14 +40,15 @@ ensuring security, scalability, and maintainability.</h3>
 
 <table>
   <tr>
-    <td align="left">
-      <img src="https://streak-stats.demolab.com/?user=SharmaRajan&theme=radical" alt="GitHub Streak" />
+    <td >
+      <img src="https://streak-stats.demolab.com?user=SharmaRajan&theme=radical" alt="GitHub Streak" />
     </td>
     <td align="right">
       <img src="https://github-readme-stats.vercel.app/api?username=SharmaRajan&&rank_icon=github&show_icons=true&theme=radical" alt="LeetCode Stats" />
     </td>
   </tr>
 </table>
+
 
 [//]: # (<img src="https://leetcard.jacoblin.cool/SharmaRajan?ext=heatmap&font=Dancing_Script&theme=dark" alt="LeetCode Stats" />)
 <img src="https://leetcard.jacoblin.cool/SharmaRajan?font=Dancing_Script&theme=dark" alt="LeetCode Stats" />
