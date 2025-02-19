@@ -1,4 +1,4 @@
-<h2 align="center" style="color: rebeccapurple;">Hi there 👋, Welcome to my Github page!</h2>
+[//]: # (<h2 align="center" style="color: rebeccapurple;">Hi there 👋, Welcome to my Github page!</h2>)
 
 [![iRajan's Isometric GitHub Calendar](https://github.com/SharmaRajan/SharmaRajan/blob/output/github-contribution-grid-snake.svg)](https://github.com/SharmaRajan)
 
