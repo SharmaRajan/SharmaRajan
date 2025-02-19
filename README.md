@@ -50,14 +50,6 @@ ensuring security, scalability, and maintainability.</h3>
 </table>
 
 
-[//]: # (![GitHub Streak]&#40;https://streak-stats.demolab.com?user=SharmaRajan&theme=radical&#41;)
-
-
-[//]: # (![Test]&#40;https://streak-stats.liara.run?user=SharmaRajan&theme=radical&#41;)
-
-
-[//]: # (![GitHub Stats]&#40;https://github-readme-stats.vercel.app/api?username=SharmaRajan&&rank_icon=github&show_icons=true&theme=radical&#41;)
-
 - LeetCode
 
 [//]: # (<img src="https://leetcard.jacoblin.cool/SharmaRajan?ext=heatmap&font=Dancing_Script&theme=dark" alt="LeetCode Stats" />)
