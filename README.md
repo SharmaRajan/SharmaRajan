@@ -39,6 +39,7 @@ ensuring security, scalability, and maintainability.</h3>
 
 [//]: # (![GitHub Activity Graph]&#40;https://github-readme-activity-graph.vercel.app/graph?username=SharmaRajan&theme=react-dark&#41;)
 
+![Contributions-Last-Year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharmaRajan&theme=react)
 
 <table>
   <tr>
@@ -54,18 +55,27 @@ ensuring security, scalability, and maintainability.</h3>
   </tr>
 <tr>
   <td>
-<img src="https://leetcard.jacoblin.cool/SharmaRajan?font=Dancing_Script&theme=dark&border_radius=10" alt="LeetCode Stats" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SharmaRajan&theme=react&utcOffset=8" alt="Commits" />
 </td>
 <td>
 <h5>🔝 Top Contributed Repo</h5>
 <img src="https://github-contributor-stats.vercel.app/api?username=SharmaRajan&limit=5&theme=react&combine_all_yearly_contributions=true&border_radius=10" alt="Top Contributed Repo" />
 </td>
 </tr>
+<tr>
+<td>
+<img src="https://leetcard.jacoblin.cool/SharmaRajan?font=Dancing_Script&theme=dark&border_radius=10" alt="LeetCode Stats" />
+</td>
+</tr>
 </table>
 
 [//]: # (<img src="https://leetcard.jacoblin.cool/SharmaRajan?ext=heatmap&font=Dancing_Script&theme=dark" alt="LeetCode Stats" />)
 
+[//]: # (![Last-Year-Stats]&#40;http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SharmaRajan&theme=react&#41;)
 
+[//]: # (![Top-Lang-Repo]&#40;http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SharmaRajan&theme=react&#41;)
+
+[//]: # (![Top-Lang-Commit]&#40;http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SharmaRajan&theme=react&#41;)
 
 
 [//]: # (### 🔝 Top Contributed Repo)
