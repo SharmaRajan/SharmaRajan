@@ -39,13 +39,13 @@ ensuring security, scalability, and maintainability.</h3>
 
 [//]: # (![GitHub Activity Graph]&#40;https://github-readme-activity-graph.vercel.app/graph?username=SharmaRajan&theme=react-dark&#41;)
 
-![Contributions-Last-Year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharmaRajan&theme=react)
+![Contributions-Last-Year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharmaRajan&theme=solarized)
 
 <table>
   <tr>
     <td >
       <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SharmaRajan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    </td>
+ </td>
     <td align="right">
       <img src="https://github-readme-stats-salesp07.vercel.app/api?username=SharmaRajan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
@@ -55,7 +55,7 @@ ensuring security, scalability, and maintainability.</h3>
   </tr>
 <tr>
   <td>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SharmaRajan&theme=react&utcOffset=8" alt="Commits" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SharmaRajan&theme=solarized&utcOffset=8&border_radius=10" alt="Commits" />
 </td>
 <td>
 <h5>🔝 Top Contributed Repo</h5>
