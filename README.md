@@ -41,16 +41,18 @@ ensuring security, scalability, and maintainability.</h3>
 
 ![Contributions-Last-Year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharmaRajan&theme=solarized)
 
-<table>
+
+[//]: # (<div  align=center>)
+[//]: # (<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharmaRajan&theme=solarized" alt="Contributions-Last-Year" />)
+[//]: # (</div>)
+
+<table align="center">
   <tr>
     <td >
       <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SharmaRajan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
  </td>
     <td align="right">
       <img src="https://github-readme-stats-salesp07.vercel.app/api?username=SharmaRajan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-
-[//]: # (      <img src="https://github-readme-stats.vercel.app/api?username=SharmaRajan&&rank_icon=github&show_icons=true&theme=radical" alt="LeetCode Stats" />)
-   
  </td>
   </tr>
 <tr>
@@ -69,6 +71,33 @@ ensuring security, scalability, and maintainability.</h3>
 </tr>
 </table>
 
+
+
+
+[//]: # (<div align=center>)
+[//]: # (    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SharmaRajan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>)
+[//]: # (    <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SharmaRajan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />)
+[//]: # (  <br/>)
+[//]: # (  <img width=390 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SharmaRajan&theme=solarized&utcOffset=8&border_radius=10" alt="Commits" />)
+[//]: # ( <div>)
+[//]: # (<h5>🔝 Top Contributed Repo</h5>)
+[//]: # (<img width=390 src="https://github-contributor-stats.vercel.app/api?username=SharmaRajan&limit=5&theme=react&combine_all_yearly_contributions=true&border_radius=10" alt="Top Contributed Repo" />)
+[//]: # (  </div>)
+[//]: # (<br />)
+[//]: # (  <img width=325 align="center" src="https://leetcard.jacoblin.cool/SharmaRajan?font=Dancing_Script&theme=dark&border_radius=10" alt="LeetCode Stats" />)
+[//]: # (</div>)
+
+
+
+[//]: # (<div align=center>)
+[//]: # (  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SharmaRajan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>)
+[//]: # (  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SharmaRajan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />)
+[//]: # (  <br/>)
+[//]: # (  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SharmaRajan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />)
+[//]: # (</div>)
+
+
+
 [//]: # (<img src="https://leetcard.jacoblin.cool/SharmaRajan?ext=heatmap&font=Dancing_Script&theme=dark" alt="LeetCode Stats" />)
 
 [//]: # (![Last-Year-Stats]&#40;http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SharmaRajan&theme=react&#41;)
@@ -76,6 +105,8 @@ ensuring security, scalability, and maintainability.</h3>
 [//]: # (![Top-Lang-Repo]&#40;http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SharmaRajan&theme=react&#41;)
 
 [//]: # (![Top-Lang-Commit]&#40;http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SharmaRajan&theme=react&#41;)
+
+[//]: # (      <img src="https://github-readme-stats.vercel.app/api?username=SharmaRajan&&rank_icon=github&show_icons=true&theme=radical" alt="LeetCode Stats" />)
 
 
 [//]: # (### 🔝 Top Contributed Repo)
@@ -165,12 +196,7 @@ ensuring security, scalability, and maintainability.</h3>
 [//]: # ([![GraphQL Badge]&#40;https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab&#41;]&#40;#&#41;)
 
 
-[//]: # (<div align=center>)
-[//]: # (  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SharmaRajan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>)
-[//]: # (  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SharmaRajan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />)
-[//]: # (  <br/>)
-[//]: # (  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SharmaRajan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />)
-[//]: # (</div>)
+
 
 [//]: # (---)
 
