@@ -8,7 +8,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5&color=6A5ACD&width=720&lines=Hi,+I'm+Rajan+Sharma.;I+am+currently+working+as+a+Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5&color=6A5ACD&width=720&lines=Hi,+I'm+Rajan+Sharma.;A+curious+software+engineer+and+tinkerer at heart.)](https://git.io/typing-svg)
 
 
 <h3 align="center">Bringing Web solutions to life with creativity, technical excellence, and attention to detail,
@@ -22,7 +22,7 @@ ensuring security, scalability, and maintainability.</h3>
 
 ### 💡 About Me:
 
-- 👨‍💻 I’m **Rajan**, a curious software engineer and tinkerer at heart.
+[//]: # (- 👨‍💻 I’m **Rajan**, a curious software engineer and tinkerer at heart.)
 - 🌱 I’m currently learning **Quantum Computing using Qiskit**.
 - 💞 I’m looking to collaborate on **open-source projects**, particularly in areas like **Web Development** and **Data
   Analysis**.
