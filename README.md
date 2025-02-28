@@ -40,7 +40,7 @@ ensuring security, scalability, and maintainability.</h3>
 ![Views](https://komarev.com/ghpvc/?username=SharmaRajan)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/SharmaRajan/SharmaRajan/blob/master/.github/workflows/MAIN.yml)
-
+[![WakaTime](https://wakatime.com/badge/user/c7c20bb1-8e36-467c-be89-0d074ae16240.svg?style=flat-square)](https://wakatime.com/@iAmRajan)
 
 
 [//]: # (![GitHub Activity Graph]&#40;https://github-readme-activity-graph.vercel.app/graph?username=SharmaRajan&theme=react-dark&#41;)
@@ -256,5 +256,6 @@ ensuring security, scalability, and maintainability.</h3>
 ```
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
